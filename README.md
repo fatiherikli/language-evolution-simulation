@@ -4,7 +4,7 @@ Just for fun.
 
 Demo:
 
-<http://fatiherikli.github.io/language-evolution-simulation>
+<https://otomat-hackathon.github.io/language-evolution-simulation/>
 
 Agent based models on wikipedia:
 
