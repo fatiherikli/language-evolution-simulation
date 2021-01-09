@@ -6,11 +6,11 @@ function Word(word, island, parent, compoundOf) {
 }
 
 Word.VOWELS = [
-  'a', 'e', 'ı', 'i', 'u', 'ü', 'ö', 'o'
+  'a', 'æ', 'e', 'ó', 'i', 'u', 'ü', 'ö', 'ø'
 ];
 
 Word.CONSTS = [
-  'b', 'c', 'd', 'f', 'g', 'ğ', 'h', 'j', 'k', 'l', 
+  'b', 'c', 'd', 'f', 'g', 'ł', 'h', 'j', 'k', 'l', 
   'm', 'n', 'p', 'r', 's', 'ş', 't', 'v', 'y', 'z'
 ];
 
