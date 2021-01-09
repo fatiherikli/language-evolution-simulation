@@ -8,5 +8,5 @@ Demo:
 
 Agent based models on wikipedia:
 
-<https://www.wikiwand.com/en/Agent-based_model>
+<https://en.wikipedia.org/wiki/Agent-based_model>
 
