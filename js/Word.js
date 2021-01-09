@@ -11,7 +11,7 @@ Word.VOWELS = [
 
 Word.CONSTS = [
   'b', 'c', 'd', 'f', 'g', 'ł', 'h', 'j', 'k', 'l', 
-  'm', 'n', 'p', 'r', 's', 'ş', 't', 'v', 'y', 'z'
+  'm', 'n', 'p', 'r', 's', 'ś', 't', 'v', 'y', 'z'
 ];
 
 Word.random = function (length, island) {
